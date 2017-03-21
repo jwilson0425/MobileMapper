@@ -30,7 +30,7 @@
                     </view>
                     <navigationItem key="navigationItem" id="ixA-VX-s25"/>
                     <connections>
-                        <outlet property="myMap" destination="Ae0-Kz-tGe" id="KMW-TR-rdI"/>
+                        <outlet property="mapView" destination="Ae0-Kz-tGe" id="iFZ-Rh-eTA"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
